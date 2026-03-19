@@ -1,3 +1,4 @@
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/805b6e8b-5fd7-4fcb-8140-363b55ed868d" />
 
 # **Criando meu primeiro Cerébro com o Notebook LM**
 
