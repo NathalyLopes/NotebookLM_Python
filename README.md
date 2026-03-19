@@ -1,6 +1,6 @@
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/805b6e8b-5fd7-4fcb-8140-363b55ed868d" />
 
-# **Criando meu primeiro Cerébro com o Notebook LM**
+# **Criando meu primeiro Cérebro com o Notebook LM**
 
 *Com essa ferramenta podemos criar uma IA especialista em um tema especifico, através de Links de Sites, Links de vídeos no Youtube ou rede social ou até materiais extraídos de PDF's.*
 
